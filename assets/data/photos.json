@@ -243,5 +243,30 @@
         "name": "tap-12",
         "service": "Tapicería",
         "serviceId": 3
+    }, {
+        "id": 42,
+        "name": "plast-1",
+        "service": "Reparación de Elementos Plásticos",
+        "serviceId": 13
+    }, {
+        "id": 43,
+        "name": "plast-2",
+        "service": "Reparación de Elementos Plásticos",
+        "serviceId": 13
+    }, {
+        "id": 44,
+        "name": "plast-3",
+        "service": "Reparación de Elementos Plásticos",
+        "serviceId": 13
+    }, {
+        "id": 45,
+        "name": "plast-4",
+        "service": "Reparación de Elementos Plásticos",
+        "serviceId": 13
+    }, {
+        "id": 46,
+        "name": "plast-5",
+        "service": "Reparación de Elementos Plásticos",
+        "serviceId": 13
     }
 ]

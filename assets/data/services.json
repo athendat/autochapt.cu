@@ -1,0 +1,205 @@
+[{
+        "id": 1,
+        "icon": "bx bx-car",
+        "name": "Chapistería",
+        "description": "Los trabajos de chapistería se realizan, tomando en consideración su complejidad y magnitud; se clasifican en: Leve, Mediano, Grave y Reconstrucción. Leve: cuando se presentan en el vehículo golpes, abolladuras u oxidaciones leves que generen una acción de trabajo que afecte hasta el 25%...",
+        "image": "assets/img/services/1.jpg",
+        "intro": "Los trabajos de chapistería se realizan, tomando en consideración su complejidad y magnitud; se clasifican en: Leve, Mediano, Grave y Reconstrucción.",
+        "types": [
+            "Mediano: Cuando se presente en el vehículo golpes, abolladuras u oxidaciones de carácter medio que generen una acción de trabajo a utilizar mayor del 25% y hasta el 50 % de la estructura del vehículo.",
+            "Grave: Cuando se presente en el vehículo golpes, abolladuras u oxidaciones de carácter grave que generen una acción de trabajo a utilizar mayor de 50 % y hasta el 65 % de la estructura.",
+            "Reconstrucción: Generen una acción de trabajo a utilizar mayor el 65 % de la estructura."
+        ],
+        "terms": [
+            "Chapistería leve, hasta 7 días hábiles.",
+            "Chapistería mediana, hasta 15 días hábiles.",
+            "Chapistería grave, hasta 45 días hábiles.",
+            "Reconstrucción, hasta 60 días hábiles."
+        ]
+    },
+    {
+        "id": 2,
+        "icon": "bx bxs-spray-can",
+        "name": "Pintura",
+        "description": "Los trabajos de pintura que se realizan con dos tipos: Monocapa y Bicapa. Los plazos y términos para este servicio son: Parcheados: 2 días hábiles Pinturas parciales: 7 días hábiles Pinturas totales, según su complejidad: 7 a 10 días hábiles Pintura a equipos reconstruidos: 15 días...",
+        "image": "assets/img/services/2.jpg",
+        "intro": "Los trabajos de pintura que se realizan con dos tipos: Monocapa y Bicapa.",
+        "terms": [
+            "Parcheados: 2 días hábiles",
+            "Pinturas parciales: 7 días hábiles",
+            "Pinturas totales, según su complejidad: 7 a 10 días hábiles",
+            "Pintura a equipos reconstruidos: 15 días hábiles"
+        ]
+    },
+    {
+        "id": 3,
+        "icon": "bx bx-exclude",
+        "name": "Tapicería",
+        "description": "Los trabajos de tapicería se realizan a: Asientos, Paños de Puertas, Cartones, Alfombra y Techo. Los plazos y términos para este servicio son: para vehículos de hasta 6 plazas: hasta 5 días hábiles.para vehículos de hasta 12 plazas: hasta 10 días hábiles.para vehículos de hasta 25...",
+        "image": "assets/img/services/3.jpg",
+        "intro": "Los trabajos de tapicería se realizan a: Asientos, Paños de Puertas, Cartones, Alfombra y Techo.",
+        "terms": [
+            "Para vehículos de hasta 6 plazas: hasta 5 días hábiles.",
+            "Para vehículos de hasta 12 plazas: hasta 10 días hábiles.",
+            "Para vehículos de hasta 25 plazas: hasta 15 días hábiles.",
+            "Para vehículos de más de 25 plazas hasta 45: hasta 20 días hábiles."
+        ]
+    },
+    {
+        "id": 4,
+        "icon": "bx bxs-car-mechanic",
+        "name": "Mecánica Automotriz",
+        "description": "Mantenimientos y Reparaciones Mantenimiento Ligero: (cada 10 000 km) y una duración de hasta 4 hrs. Cambio de Filtros(Aceite y Combustible) Cambio de Aceite. Mantenimiento Medio: (cada 20 000 km) y una duración de hasta 6 hrs. Cambio de Filtros(Aceite y Combustible) Cambio de... ",
+        "image": "assets/img/services/4.jpg",
+        "intro": "En el caso de las reparaciones el mínimo y máximo de la tarifa horaria se determina en relación al vehículo, Marca, Modelo, complejidad del trabajo a realizar y el tipo de reparación teniendo en cuenta las horas del tiempo real necesario.",
+        "types": [
+            "Mantenimiento Ligero",
+            "Mantenimiento Medio",
+            "Mantenimiento General",
+            "Reparación Ligera",
+            "Reparación Media",
+            "Reparación General"
+        ],
+        "terms": [
+            "Mantenimiento Ligero: (cada 10 000 km) y una duración de hasta 4hrs. Cambio de Filtros(Aceite y Combustible). Cambio de Aceite.",
+            "Mantenimiento Medio: (cada 20 000 km) y una duración de hasta 6 hrs. Cambio de Filtros(Aceite y Combustible). Cambio de Aceite. Revisión de pastillas de freno y bandas. Reapriete de correas de accesorios. Revisión y apriete de la dirección.",
+            "Mantenimiento General: (cada 80 000 km) y una duración de hasta 8 hrs. Contiene el mantenimiento medio. Cambio de correa de distribución. Cambio de correas de agregados. Engrase o cambio de rodamientos. Cambio de pastillas y bandas. Cambio de componentes de la dirección.",
+            "Reparación Ligera: Con una duración de hasta 8 hrs.",
+            "Reparación Media: Con una duración de hasta 16 hrs.",
+            "Reparación General: Con una duración de hasta 32 hrs."
+        ]
+    },
+    {
+        "id": 5,
+        "icon": "bx bxs-wrench",
+        "name": "Conformación y Reparación de Tubos de Escapes",
+        "description": "Servicio de Reparación y Conformación de Tubos de Escape incluye: Cambio de flexibles Cambio de catalizador Cambio de silenciador Sustitución parcial o general de tubos Adaptación de cola Cambio de colgantes y presillas Cuando por causas ajenas a la voluntad de AutoCHAPT se afecten las...",
+        "image": "assets/img/services/5.jpg",
+        "terms": [
+            "Cambio de flexibles",
+            "Cambio de catalizador",
+            "Cambio de silenciador",
+            "Sustitución parcial o general de tubos",
+            "Adaptación de cola",
+            "Cambio de colgantes y presillas"
+        ]
+    },
+    {
+        "id": 6,
+        "icon": "bx bx-circle",
+        "name": "Reparación del Sistema de Dirección",
+        "description": "Servicio de Reparación del Sistema de Dirección incluye: Diagnósticos Conformación de Retenes Sustituciones de Bujes de Amortiguador y Otros Reparación de Cangrejos Reparación del Muñón Reparación o Sustitución de Parrillas Reparación o Sustitución de Barras Estabilizadora Reparación o...",
+        "image": "assets/img/services/6.jpg",
+        "terms": [
+            "Diagnósticos",
+            "Conformación de Retenes",
+            "Sustituciones de Bujes de Amortiguador y Otros",
+            "Reparación de Cangrejos",
+            "Reparación del Muñón",
+            "Reparación o Sustitución de Parrillas",
+            "Reparación o Sustitución de Barras Estabilizadora",
+            "Reparación o Sustitución de Esféricas",
+            "Reparación o Sustitución de Yoquis",
+            "Reparación de Engranajes o Cremalleras",
+            "Sustitución de Calzos Intermedio de Transmisión",
+            "Reparación del Sistema Hidráulico",
+            "Reparación del Cardan",
+            "Tramado"
+        ]
+    },
+    {
+        "id": 7,
+        "icon": "bx bxs-cool",
+        "name": "Clima",
+        "description": "Diagnóstico Inicial Revisión Eléctrica del Sistema de Clima Revisión Mecánica del Sistema de Clima Reparación de Compresor Reparación de Condensadores, Evaporador y/o Manguera Gas Refrigerante Prueba Final cuando por causas ajenas a la voluntad de AutoCHAPT se...",
+        "image": "assets/img/services/7.png",
+        "terms": [
+            "Diagnóstico Inicial",
+            "Revisión Eléctrica del Sistema de Clima",
+            "Revisión Mecánica del Sistema de Clima",
+            "Reparación de Compresor",
+            "Reparación de Condensadores, Evaporador y/o Manguera",
+            "Gas Refrigerante",
+            "Prueba Final"
+        ]
+    },
+    {
+        "id": 8,
+        "icon": "bx bxs-car-crash",
+        "name": "Escatolina",
+        "description": "Recogida en plaza y entrega en el lugar acordado por el cliente.",
+        "image": "assets/img/services/8.png",
+        "intro": "Recogida en plaza y entrega en el lugar acordado por el cliente."
+    },
+    {
+        "id": 9,
+        "icon": "bx bxs-gas-pump",
+        "name": "Limpieza del Sistema de Combustible",
+        "description": "Servicio de Limpieza del Sistema de Alimentación de Combustible incluye: Diagnóstico con PPS Limpieza del Tanque de Combustible Mantenimiento a la Bomba de Tanque de Combustible Limpieza y Calibración de la Válvula de Aceleración(mariposa) Limpieza del Aforador Limpieza o Cambio del Filtro...",
+        "image": "assets/img/services/9.png",
+        "terms": [
+            "Diagnóstico con PPS",
+            "Limpieza del Tanque de Combustible",
+            "Mantenimiento a la Bomba de Tanque de Combustible",
+            "Limpieza y Calibración de la Válvula de Aceleración (mariposa)",
+            "Limpieza del Aforador",
+            "Limpieza o Cambio del Filtro",
+            "Limpieza y Soplado de Líneas",
+            "Limpieza de la Flauta",
+            "Limpieza y Diagnóstico de los Inyectores",
+            "Calibración de los Inyectores"
+        ]
+    },
+    {
+        "id": 10,
+        "icon": "bx bx-tachometer",
+        "name": "Reparación del Sistema de Frenos",
+        "description": "Servicio de Reparación del Sistema de Frenos incluye: Desmonte y Monte de Gomas Desmonte y Monte de Sistema de Frenos Limpieza del Sistema de Frenos Sellado del Sistema de Frenos Revestimiento de Pastillas y Bandas Reparación y Comprobación de Bomba de Frenos Llenado del Depósito de la Bomba... ",
+        "image": "assets/img/services/10.png",
+        "terms": [
+            "Desmonte y Monte de Gomas",
+            "Desmonte y Monte de Sistema de Frenos",
+            "Limpieza del Sistema de Frenos",
+            "Sellado del Sistema de Frenos",
+            "Revestimiento de Pastillas y Bandas",
+            "Reparación y Comprobación de Bomba de Frenos",
+            "Llenado del Depósito de la Bomba de Freno  ",
+            "Comprobación Eléctrica de Todo el Sistema de Frenos"
+        ]
+    },
+    {
+        "id": 11,
+        "icon": "bx bxs-car-mechanic",
+        "name": "Reparación de Motor",
+        "description": "Servicio de Reparación de Motor incluye: Desmonte y Monte de Neumáticos Desmonte y Monte de Dirección Desmonte y Monte de Sistema de Frenos Delanteros Desmote de las Partes del Motor Alineación y Encamisado del Motor Montaje de Partes del Motor Prueba Final y Diagnóstico Cuando por causas...",
+        "image": "assets/img/services/11.png",
+        "terms": [
+            "Desmonte y Monte de Neumáticos",
+            "Desmonte y Monte de Dirección",
+            "Desmonte y Monte de Sistema de Frenos Delanteros",
+            "Desmote de las Partes del Motor",
+            "Alineación y Encamisado del Motor",
+            "Montaje de Partes del Motor",
+            "Prueba Final y Diagnóstico"
+        ]
+    },
+    {
+        "id": 12,
+        "icon": "bx bxs-car-garage",
+        "name": "Polarizado de Cristalería Automotor",
+        "description": "Servicio de Polarizado de Cristalería Automotor incluye: Empapelados Retiro de papel Cuando por causas ajenas a la voluntad de AutoCHAPT se afecten las posibilidades de realizar el servicio en el término señalado, ya sea por falta de fluido eléctrico, intensas lluvias, humedad crítica en... ",
+        "image": "assets/img/services/12.jpg",
+        "terms": [
+            "Empapelados",
+            "Retiro de papel"
+        ]
+    },
+    {
+        "id": 13,
+        "icon": "bx bxs-car-crash",
+        "name": "Reparación de Elementos Plásticos",
+        "description": "Reparación de elementos plásticos del vehículo",
+        "image": "assets/img/services/13.jpg",
+        "intro": "Reparación de Elementos Plásticos"
+    }
+]
