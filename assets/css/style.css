@@ -936,7 +936,7 @@ button:focus {
 
 .feature-area .feature-img {
     position: relative;
-    background-image: url("../img/feature-bg.jpg");
+    background-image: url("https://res.cloudinary.com/autochapt/image/upload/v1713546602/web/feature-bg_v9tz3f.webp");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
