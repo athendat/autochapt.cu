@@ -1,6 +1,5 @@
-$common-font: 'Poppins',
-sans-serif;
-$transition: .5s all ease;
+$common-font: "Poppins", sans-serif;
+$transition: 0.5s all ease;
 $white-color: #ffffff;
 $black-color: #333333;
 $grey-color: #858584;
@@ -364,6 +363,8 @@ $yellow-color: #ea110c;
                     max-width: 60%;
                     img {
                         margin-right: 3px;
+                        width: 416px !important;
+                        max-height: 326px !important;
                     }
                     &:last-child {
                         flex: 0 0 40%;
@@ -1781,7 +1782,11 @@ $yellow-color: #ea110c;
         flex: 0 0 45%;
         max-width: 45%;
     }
-    .blog-details-item .blog-details-recent .blog-details-inner ul li:last-child {
+    .blog-details-item
+        .blog-details-recent
+        .blog-details-inner
+        ul
+        li:last-child {
         flex: 0 0 55%;
         max-width: 55%;
     }

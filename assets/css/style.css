@@ -3011,6 +3011,7 @@ footer .footer-img {
     position: absolute;
     top: 0;
     left: 0;
+    border-radius: 5px;
 }
 
 .blog-details-item .blog-details-recent .blog-details-inner a {
@@ -3145,6 +3146,7 @@ footer .footer-img {
 
 .blog-details-item .blog-details-gallery ul li a {
     display: block;
+    border-radius: 5px !important;
 }
 
 .blog-details-item .blog-details-tag h3 {

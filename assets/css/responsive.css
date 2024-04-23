@@ -327,6 +327,8 @@
     }
     .blog-item .blog-bottom ul li img {
         margin-right: 3px;
+        width: 416px !important;
+        max-height: 326px !important;
     }
     .blog-item .blog-bottom ul li:last-child {
         -webkit-box-flex: 0;
@@ -1135,6 +1137,8 @@
     }
     .blog-item .blog-bottom ul li img {
         margin-right: 3px;
+        width: 416px !important;
+        max-height: 326px !important;
     }
     .blog-item .blog-bottom ul li:last-child {
         -webkit-box-flex: 0;
